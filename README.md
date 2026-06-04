@@ -2,6 +2,8 @@
 
 A simple React Photo Gallery application built using React, Vite, and Tailwind CSS. The app fetches photos from the Picsum Photos API, displays them in a responsive grid, allows users to search photos by author name, and mark photos as favourites.
 
+Live demo:- https://photo-gallery-app-steel.vercel.app/
+
 ## Features
 
 * Fetches 30 photos from Picsum Photos API
